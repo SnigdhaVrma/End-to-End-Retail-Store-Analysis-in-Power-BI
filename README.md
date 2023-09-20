@@ -1,5 +1,7 @@
 # End-to-End Retail Store Analysis in Power BI
 
+![1_9po7ds-jwLhCnaTR5mMBEw](https://github.com/SnigdhaVrma/End-to-End-Retail-Store-Analysis-in-Power-BI/assets/133538251/76e928da-6327-4011-9cab-ef135b2b74d8)
+
 ## Introduction
 
 Welcome to the "End-to-End Retail Store Analysis in Power BI" project repository! This project aims to provide a comprehensive analysis of retail store data using Microsoft Power BI. In this README, you'll find an overview of the project, the problem it aims to solve, a description of the data used, and the challenges encountered during its development along with the learning outcomes.
@@ -32,6 +34,10 @@ Throughout the development of this project, several challenges were encountered,
 - **Data Modeling**: Designing an effective data
 
 # Conclusion
+
+
+![image](https://github.com/SnigdhaVrma/End-to-End-Retail-Store-Analysis-in-Power-BI/assets/133538251/bea6970d-1a7f-4d1f-82ba-eeb3153530bf)
+
 
 In conclusion, the "End-to-End Retail Store Analysis in Power BI" project represents a comprehensive exploration of the retail domain using the powerful capabilities of Microsoft Power BI. We've addressed the need for insightful data analysis in retail, aiming to solve key challenges faced by businesses in this sector.
 
